@@ -1,6 +1,8 @@
 # Hi, I'm Vedant Joshi 👋
 
-### 🚀 Aspiring AI/ML Engineer | Python Developer | Open Source Contributor
+<p align="center">
+  <img src="profile/typing.gif" alt="Typing introduction" />
+</p>
 
 I'm an aspiring **AI/ML Engineer** passionate about building practical solutions using data, programming, and machine learning.
 
@@ -17,7 +19,7 @@ I enjoy solving problems, building projects, contributing to open source, and co
 - 🌱 Exploring **Deep Learning**
 - 🌍 Interested in contributing to **Open Source**
 - 🚀 Working towards building **real-world AI/ML projects**
-- 💼 Goal: **Secure an internship opportunity**
+- 💼 Goal: **🎯 Seeking opportunities to learn and contribute as an AI/ML intern**
 
 ---
 
@@ -44,7 +46,6 @@ I enjoy solving problems, building projects, contributing to open source, and co
 <p align="left">
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
-
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis
