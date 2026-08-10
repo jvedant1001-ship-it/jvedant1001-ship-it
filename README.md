@@ -1,92 +1,187 @@
 # Hi, I'm Vedant Joshi 👋
 
-## 🚀 About Me
+### 🚀 Aspiring AI/ML Engineer | Python Developer | Open Source Contributor
 
-I am an aspiring AI/ML Engineer passionate about building solutions using data and technology.
+I'm an aspiring **AI/ML Engineer** passionate about building practical solutions using data, programming, and machine learning.
 
-Currently, I am learning and improving my skills in:
-
-- 🐍 Python
-- 📊 Data Analysis
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 💡 Data Structures & Algorithms
-
-I enjoy solving problems, building projects, and documenting my learning journey.
+I enjoy solving problems, building projects, contributing to open source, and continuously improving my skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧠 About Me
 
-### Programming Languages
-- Python
-- SQL
-- Bash
-- C++
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🐍 Currently focusing on **Python**
+- 📊 Learning **Data Analysis & Data Science**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🌱 Exploring **Deep Learning**
+- 🌍 Interested in contributing to **Open Source**
+- 🚀 Working towards building **real-world AI/ML projects**
+- 💼 Goal: **Secure an internship opportunity**
 
-### Data Science & AI
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+**Libraries & Frameworks**
+
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
+
+### 📊 Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+</p>
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Manipulation
+- Data Visualization
+
+### 🧰 Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Advanced DSA
+      ↓
+Real-World AI/ML Projects
+```
+
+### 🤖 Machine Learning
+
+Currently improving my understanding of:
+
+- Supervised Learning
+- Unsupervised Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Regression
+- Classification
+- Clustering
+
+### 📊 Data Analysis
+
+Practicing:
+
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
-
-### Tools
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-
-### Currently Learning
-- Machine Learning
-- Deep Learning
-- Advanced DSA
-
----
-
-### 📊 Data Manipulation in Python
-
-Learning and practicing:
-- Data cleaning
-- Data preprocessing
-- Pandas operations
-- NumPy operations
 - Exploratory Data Analysis
+- Data Cleaning
+- Data Visualization
 
+### 🧩 DSA
 
-### 🧩 DSA Practice
+Currently practicing:
 
-Solving coding problems to improve problem-solving skills.
-
-Topics:
 - Arrays
 - Strings
 - Linked Lists
+- Stacks & Queues
 - Trees
+- Searching
+- Sorting
 - Algorithms
+- Problem Solving
 
 ---
 
-## 🎯 Goals
+# 🚀 What I'm Working Towards
 
-- Build strong AI/ML foundations
-- Contribute to open source
-- Create real-world projects
-- Secure an internship opportunity
-- Continue improving every day
-- Can't forget DSA
-  
+- 🎯 Build strong AI/ML foundations
+- 🤖 Create real-world AI/ML projects
+- 🌍 Contribute consistently to open source
+- 💼 Secure an internship
+- 🧩 Improve my DSA and problem-solving skills
+- 📚 Keep learning something new every day
+
 ---
 
-<h2>🐍 My Contributions</h2>
+# 📊 My GitHub Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-  <img alt="github contribution snake" src="dist/github-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+    <img alt="github contribution snake" src="dist/github-snake.svg">
+  </picture>
+</p>
+
 ---
 
-## 🤝 Connect With Me
+# 📈 GitHub Activity
 
-Email: for.work.1871@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvedant1001-ship-it&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvedant1001-ship-it&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jvedant1001-ship-it&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+# 🎯 Goals
+
+> **Learn → Build → Contribute → Improve → Repeat**
+
+- 🧠 Become a strong AI/ML Engineer
+- 🚀 Build meaningful projects
+- 🌍 Make useful open-source contributions
+- 💼 Gain industry experience
+- 📈 Keep improving every day
+
+---
+
+# 🤝 Connect With Me
+
+📧 **Email:** [for.work.1871@gmail.com](mailto:for.work.1871@gmail.com)
+
+💻 **GitHub:** [@jvedant1001-ship-it](https://github.com/jvedant1001-ship-it)
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning. Keep Building. Keep Contributing. 🚀**
+
+</p>
