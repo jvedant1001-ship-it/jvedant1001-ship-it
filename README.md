@@ -118,17 +118,6 @@ Currently practicing:
 
 ---
 
-# 🚀 What I'm Working Towards
-
-- 🎯 Build strong AI/ML foundations
-- 🤖 Create real-world AI/ML projects
-- 🌍 Contribute consistently to open source
-- 💼 Secure an internship
-- 🧩 Improve my DSA and problem-solving skills
-- 📚 Keep learning something new every day
-
----
-
 # 📊 My GitHub Contributions
 
 <p align="center">
@@ -141,19 +130,11 @@ Currently practicing:
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvedant1001-ship-it&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvedant1001-ship-it&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvedant1001-ship-it&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ---
@@ -166,6 +147,7 @@ Currently practicing:
 - 🚀 Build meaningful projects
 - 🌍 Make useful open-source contributions
 - 💼 Gain industry experience
+- 🧩 Improve my DSA and problem-solving skills
 - 📈 Keep improving every day
 
 ---
@@ -177,11 +159,3 @@ Currently practicing:
 💻 **GitHub:** [@jvedant1001-ship-it](https://github.com/jvedant1001-ship-it)
 
 ---
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning. Keep Building. Keep Contributing. 🚀**
-
-</p>
