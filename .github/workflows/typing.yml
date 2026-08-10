@@ -1,0 +1,104 @@
+name: Generate Typing Animation
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/typing.yml"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Generate typing animation
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageDraw, ImageFont
+          import os
+          import time
+
+          phrases = [
+              "Aspiring AI/ML Engineer",
+              "Python Developer",
+              "Machine Learning Enthusiast",
+              "Always Learning. Always Building."
+          ]
+
+          width = 850
+          height = 70
+          bg = (255, 255, 255, 0)
+          color = (54, 188, 247)
+
+          font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf"
+          font = ImageFont.truetype(font_path, 30)
+
+          frames = []
+
+          def add_frame(text):
+              img = Image.new("RGBA", (width, height), bg)
+              draw = ImageDraw.Draw(img)
+
+              bbox = draw.textbbox((0, 0), text, font=font)
+              text_width = bbox[2] - bbox[0]
+              text_height = bbox[3] - bbox[1]
+
+              x = (width - text_width) // 2
+              y = (height - text_height) // 2 - 4
+
+              draw.text((x, y), text, font=font, fill=color)
+
+              # Terminal-style cursor
+              cursor_x = x + text_width + 5
+              draw.rectangle(
+                  [cursor_x, y, cursor_x + 3, y + text_height],
+                  fill=color
+              )
+
+              frames.append(img)
+
+          for phrase in phrases:
+              # Typing
+              for i in range(1, len(phrase) + 1):
+                  add_frame(phrase[:i])
+                  frames[-1].info["duration"] = 55
+
+              # Pause
+              for _ in range(12):
+                  add_frame(phrase)
+                  frames[-1].info["duration"] = 100
+
+              # Deleting
+              for i in range(len(phrase) - 1, -1, -1):
+                  add_frame(phrase[:i])
+                  frames[-1].info["duration"] = 35
+
+          os.makedirs("profile", exist_ok=True)
+
+          frames[0].save(
+              "profile/typing.gif",
+              save_all=True,
+              append_images=frames[1:],
+              duration=60,
+              loop=0,
+              disposal=2,
+              transparency=0
+          )
+
+          print("Typing animation generated successfully.")
+          PY
+
+      - name: Commit typing animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Add typing animation"
+          add: "profile/typing.gif"
