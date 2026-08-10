@@ -74,7 +74,16 @@ Topics:
 - Secure an internship opportunity
 - Continue improving every day
 - Can't forget DSA
+  
+---
 
+<h2>🐍 My Contributions</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+  <img alt="github contribution snake" src="dist/github-snake.svg">
+</picture>
 ---
 
 ## 🤝 Connect With Me
