@@ -28,7 +28,7 @@ I enjoy solving problems, building projects, contributing to open source, and co
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,js,cs" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,js,css" />
 </p>
 
 ### 🤖 AI / Machine Learning & Data Science
