@@ -34,39 +34,29 @@ I enjoy solving problems, building projects, contributing to open source, and co
 
 ### 🤖 AI / Machine Learning & Data Science
 
-<table width="100%"> <tr>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+</p>
 
-<td width="75%" valign="top">
+| 🧠 Skills | 📚 Topics |
+|---|---|
+| 🧹 Data Cleaning & Preprocessing | Handling missing values, data transformation |
+| 🔍 Exploratory Data Analysis | Understanding patterns, trends & distributions |
+| 🔄 Data Manipulation | Filtering, grouping, merging & transforming data |
+| 📊 Data Visualization | Charts, plots & visual data analysis |
+| ⚙️ Feature Engineering | Feature selection & feature transformation |
+| 🤖 Machine Learning | Building & applying ML models |
+| 📈 Model Training & Evaluation | Training, testing & performance evaluation |
+| 🧠 Learning Types | Supervised & Unsupervised Learning |
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" /> </p>
+#### 📚 Libraries
 
-Skills
-
-🧹 Data Cleaning & Preprocessing
-🔍 Exploratory Data Analysis (EDA)
-🔄 Data Manipulation
-📊 Data Visualization
-⚙️ Feature Engineering
-🤖 Machine Learning
-📈 Model Training & Evaluation
-🧠 Supervised & Unsupervised Learning
-
-Libraries
-
-NumPy
-Pandas
-Matplotlib
-Seaborn
-
-</td>
-
-<td width="25%" align="center" valign="middle">
-
-<img src="profile/sisyphus.png" width="220" alt="Sisyphus">
-
-</td>
-
-</tr> </table>
+| Library | Purpose |
+|---|---|
+| **NumPy** | Numerical computing & array operations |
+| **Pandas** | Data manipulation & analysis |
+| **Matplotlib** | Data visualization |
+| **Seaborn** | Statistical data visualization |
 
 ### 🧰 Tools & Development
 
