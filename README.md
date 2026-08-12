@@ -28,7 +28,7 @@ I enjoy solving problems, building projects, contributing to open source, and co
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,js,cs" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -42,15 +42,14 @@ I enjoy solving problems, building projects, contributing to open source, and co
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
 ### 📊 Data Science
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-</p>
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis
 - Data Manipulation
 - Data Visualization
+
 
 ### 🧰 Tools & Development
 
