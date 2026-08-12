@@ -34,44 +34,39 @@ I enjoy solving problems, building projects, contributing to open source, and co
 
 ### 🤖 AI / Machine Learning & Data Science
 
+<table width="100%"> <tr>
 
-<table>
-<tr>
+<td width="75%" valign="top">
 
-<td width="65%" valign="top">
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" /> </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
-</p>
+Skills
 
-**Skills**
+🧹 Data Cleaning & Preprocessing
+🔍 Exploratory Data Analysis (EDA)
+🔄 Data Manipulation
+📊 Data Visualization
+⚙️ Feature Engineering
+🤖 Machine Learning
+📈 Model Training & Evaluation
+🧠 Supervised & Unsupervised Learning
 
-* 🧹 Data Cleaning & Preprocessing
-* 🔍 Exploratory Data Analysis (EDA)
-* 🔄 Data Manipulation
-* 📊 Data Visualization
-* ⚙️ Feature Engineering
-* 🤖 Machine Learning
-* 📈 Model Training & Evaluation
-* 🧠 Supervised & Unsupervised Learning
+Libraries
 
-**Libraries**
-
-* `NumPy`
-* `Pandas`
-* `Matplotlib`
-* `Seaborn`
+NumPy
+Pandas
+Matplotlib
+Seaborn
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="25%" align="center" valign="middle">
 
 <img src="profile/sisyphus.png" width="220" alt="Sisyphus">
 
 </td>
 
-</tr>
-</table>
+</tr> </table>
 
 ### 🧰 Tools & Development
 
