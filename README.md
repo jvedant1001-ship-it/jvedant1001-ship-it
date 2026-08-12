@@ -4,9 +4,8 @@
   <img src="profile/typing.gif" alt="Typing introduction" />
 </p>
 
-I'm an aspiring **AI/ML Engineer** passionate about building practical solutions using data, programming, and machine learning.
-
-I enjoy solving problems, building projects, contributing to open source, and continuously improving my skills.
+I'm an aspiring AI/ML Engineer focused on Python, data analysis, machine learning, and problem solving.
+I'm currently building my foundations through hands-on projects and consistent DSA practice, with the goal of developing practical AI/ML solutions.
 
 ---
 
@@ -72,56 +71,55 @@ I enjoy solving problems, building projects, contributing to open source, and co
 
 ---
 
+# 🚀 Featured Projects
+
+| Project | Description | Focus |
+|---|---|---|
+| 🐍 **Python Projects** | A collection of **14 independently built Python projects** created to strengthen programming fundamentals, logical thinking, and problem-solving through hands-on practice. | Python · Problem Solving · Programming Fundamentals |
+| 🧪 **PythonLabs** | An ongoing collection of practical Python projects, including an **Expense Tracker, Library Management System, and database-related applications** as I progress toward more structured Python development. | Python · OOP · File Handling · SQL |
+| 📊 **Data Analysis Project** | Hands-on work applying **NumPy and Pandas** to real datasets, focusing on data cleaning, manipulation, exploratory analysis, visualization, and extracting meaningful insights. | NumPy · Pandas · Data Analysis |
+
+> **Building consistently, one project at a time.**
+
+---
+
 # 📚 Currently Learning
+
+I'm continuously strengthening my foundations in **Machine Learning, Data Analysis, Deep Learning, and DSA** while applying what I learn through practical projects.
+
+| 🚀 Area | 📖 Currently Learning |
+|---|---|
+| 🤖 **Machine Learning** | Supervised Learning · Unsupervised Learning · Data Preprocessing · Feature Engineering · Model Evaluation · Regression · Classification · Clustering |
+| 📊 **Data Analysis** | NumPy · Pandas · Matplotlib · Seaborn · EDA · Data Cleaning · Data Visualization |
+| 🧩 **Data Structures & Algorithms** | Arrays · Strings · Linked Lists · Stacks & Queues · Trees · Searching · Sorting · Algorithms · Problem Solving |
+| 🧠 **Deep Learning** | Neural Networks · Deep Learning Fundamentals · Model Training · Model Evaluation |
+
+### 🛤️ Learning Path
 
 ```text
 Machine Learning
       ↓
 Deep Learning
       ↓
-Advanced DSA
+DSA & Problem Solving
       ↓
 Real-World AI/ML Projects
+
 ```
 
-### 🤖 Machine Learning
+### 🧩 Data Structures & Algorithms
 
-Currently improving my understanding of:
+Building on a solid foundation in **DSA and problem solving**, while progressing toward more advanced concepts through consistent practice.
 
-- Supervised Learning
-- Unsupervised Learning
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- Regression
-- Classification
-- Clustering
+| 🎯 Focus Area | 📚 Current Progress |
+|---|---|
+| 🧱 **Core Data Structures** | Arrays · Strings · Linked Lists · Stacks & Queues · Trees |
+| ⚙️ **Algorithms** | Searching · Sorting · Recursion · Basic Algorithmic Techniques |
+| 🧠 **Problem Solving** | Pattern Recognition · Logical Thinking · Time & Space Complexity |
+| 💻 **Practice** | LeetCode · Algorithmic Problem Solving · Consistent Practice |
+| 🚀 **Next Step** | Progressing toward more challenging DSA problems and strengthening problem-solving skills |
 
-### 📊 Data Analysis
-
-Practicing:
-
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Visualization
-
-### 🧩 DSA
-
-Currently practicing:
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Searching
-- Sorting
-- Algorithms
-- Problem Solving
+> **Build the fundamentals → Solve consistently → Tackle harder problems → Improve**
 
 ---
 
@@ -144,18 +142,44 @@ Currently practicing:
   <img src="profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
+
 ---
 
 # 🎯 Goals
 
+<table width="100%">
+<tr>
+
+<td width="65%" valign="top">
+
+| 🚀 Focus | 🎯 Goal |
+|---|---|
+| 🧠 **AI/ML** | Become a strong and capable AI/ML Engineer |
+| 🛠️ **Projects** | Build meaningful, real-world AI/ML projects |
+| 🌍 **Open Source** | Make useful contributions and learn from the community |
+| 💼 **Career** | Gain industry experience and grow as an engineer |
+| 🧩 **DSA** | Strengthen problem-solving through consistent practice |
+| 📈 **Growth** | Keep learning, building, and improving every day |
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="profile/sisyphus.png" width="220" alt="Sisyphus">
+
+<br>
+
+**Keep pushing forward.**
+
+*Failure is part of the process.*
+
+</td>
+
+</tr>
+</table>
+
 > **Learn → Build → Contribute → Improve → Repeat**
 
-- 🧠 Become a strong AI/ML Engineer
-- 🚀 Build meaningful projects
-- 🌍 Make useful open-source contributions
-- 💼 Gain industry experience
-- 🧩 Improve my DSA and problem-solving skills
-- 📈 Keep improving every day
 
 ---
 
