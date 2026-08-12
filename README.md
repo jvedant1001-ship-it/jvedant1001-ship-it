@@ -31,28 +31,36 @@ I enjoy solving problems, building projects, contributing to open source, and co
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,js,css" />
 </p>
 
+
 ### 🤖 AI / Machine Learning & Data Science
 
-<table> <tr>
+
+<table>
+<tr>
 
 <td width="65%" valign="top">
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+</p>
 
-Skills
+**Skills**
 
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Data Manipulation
-Data Visualization
-Feature Engineering
-Machine Learning
-Model Training & Evaluation
-Supervised & Unsupervised Learning
+* 🧹 Data Cleaning & Preprocessing
+* 🔍 Exploratory Data Analysis (EDA)
+* 🔄 Data Manipulation
+* 📊 Data Visualization
+* ⚙️ Feature Engineering
+* 🤖 Machine Learning
+* 📈 Model Training & Evaluation
+* 🧠 Supervised & Unsupervised Learning
 
-Libraries
+**Libraries**
 
-NumPy • Pandas • Matplotlib • Seaborn
+* `NumPy`
+* `Pandas`
+* `Matplotlib`
+* `Seaborn`
 
 </td>
 
@@ -62,7 +70,8 @@ NumPy • Pandas • Matplotlib • Seaborn
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 ### 🧰 Tools & Development
 
