@@ -31,25 +31,21 @@ I enjoy solving problems, building projects, contributing to open source, and co
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,js,cs" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning & Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch" />
 </p>
 
-**Libraries & Frameworks**
-
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
-
-### 📊 Data Science
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis
+**Core Skills**
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
 - Data Manipulation
 - Data Visualization
-
+- Feature Engineering
+- Machine Learning
+- Model Training & Evaluation
+- Supervised & Unsupervised Learning
 
 ### 🧰 Tools & Development
 
