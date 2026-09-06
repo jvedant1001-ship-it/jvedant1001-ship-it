@@ -27,7 +27,7 @@ I'm currently building my foundations through hands-on projects and consistent D
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,js,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
 </p>
 
 
