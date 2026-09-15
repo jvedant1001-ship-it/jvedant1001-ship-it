@@ -5,27 +5,32 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Default to no permissions.
+permissions: {}
+
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
+    # Only permission needed to write the generated SVGs
+    # back to this profile repository.
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit snake files
+      - name: Commit generated files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate contribution snake"
+          message: "Update contribution snake"
           add: "dist/"
