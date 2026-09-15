@@ -5,21 +5,24 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# Default to no permissions.
+# No permissions unless explicitly granted below.
 permissions: {}
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
-    # Only permission needed to write the generated SVGs
-    # back to this profile repository.
+    # Needed only to commit the generated SVG files
+    # back to this repository.
     permissions:
       contents: write
 
     timeout-minutes: 10
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
