@@ -5,23 +5,32 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Default to no permissions.
+permissions: {}
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    # Required because the generated SVGs are committed
+    # back to this repository.
     permissions:
       contents: write
+
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
+      - name: Generate GitHub Statistics
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,9 +38,11 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
-      - name: Commit stats
+      - name: Commit generated statistics
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update GitHub stats"
+          message: "Update GitHub statistics"
           add: "profile/"
