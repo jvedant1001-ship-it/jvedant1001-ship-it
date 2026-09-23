@@ -12,12 +12,11 @@ I'm currently building my foundations through hands-on projects and consistent D
 ## 🧠 About Me
 
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🐍 Currently focusing on **Python**
-- 📊 Learning **Data Analysis & Data Science**
-- 🧩 Practicing **Data Structures & Algorithms**
-- 🌱 Exploring **Deep Learning**
+- 🐍 Currently focusing on **Python Basics** and **Data Structures & Algorithms**
+- 📊 Learning **Data Science,MlOps**
 - 🌍 Interested in contributing to **Open Source**
 - 🚀 Working towards building **real-world AI/ML projects**
+- 🧩 Hobbies **Swimming,Chess,Reading**
 - 💼 Goal: **🎯 Seeking opportunities to learn and contribute as an AI/ML intern**
 
 ---
@@ -28,6 +27,18 @@ I'm currently building my foundations through hands-on projects and consistent D
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
+</p>
+
+### 🧰 Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 
@@ -57,17 +68,6 @@ I'm currently building my foundations through hands-on projects and consistent D
 | **Matplotlib** | Data visualization |
 | **Seaborn** | Statistical data visualization |
 
-### 🧰 Tools & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
 ---
 
@@ -93,19 +93,6 @@ I'm continuously strengthening my foundations in **Machine Learning, Data Analys
 | 📊 **Data Analysis** | NumPy · Pandas · Matplotlib · Seaborn · EDA · Data Cleaning · Data Visualization |
 | 🧩 **Data Structures & Algorithms** | Arrays · Strings · Linked Lists · Stacks & Queues · Trees · Searching · Sorting · Algorithms · Problem Solving |
 | 🧠 **Deep Learning** | Neural Networks · Deep Learning Fundamentals · Model Training · Model Evaluation |
-
-### 🛤️ Learning Path
-
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-DSA & Problem Solving
-      ↓
-Real-World AI/ML Projects
-
-```
 
 ### 🧩 Data Structures & Algorithms
 
@@ -183,10 +170,5 @@ Building on a solid foundation in **DSA and problem solving**, while progressing
 
 ---
 
-# 🤝 Connect With Me
-
-📧 **Email:** [for.work.1871@gmail.com](mailto:for.work.1871@gmail.com)
-
-💻 **GitHub:** [@jvedant1001-ship-it](https://github.com/jvedant1001-ship-it)
-
----
+🤝 Connect With Me
+<p align="center"> <a href="mailto:for.work.1871@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/jvedant1001-ship-it"> <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.chess.com/member/chess_is_hard_001"> <img src="https://cdn.simpleicons.org/chessdotcom" alt="Chess.com" width="40" height="40"> </a> </p>
