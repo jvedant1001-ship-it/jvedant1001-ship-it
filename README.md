@@ -171,7 +171,11 @@ Building on a solid foundation in **DSA and problem solving**, while progressing
 ---
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=jvedant1001-ship-it&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jvedant1001-ship-it&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jvedant1001-ship-it?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/jvedant1001-ship-it?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
+</p>
 
 
 ---
