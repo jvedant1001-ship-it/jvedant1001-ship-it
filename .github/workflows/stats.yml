@@ -2,18 +2,18 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Refresh every 6 hours.
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
-# Default to no permissions.
+# Deny everything by default.
 permissions: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    # Required because the generated SVGs are committed
-    # back to this repository.
+    # Required only because this workflow commits generated SVGs.
     permissions:
       contents: write
 
@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Statistics
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
@@ -33,7 +33,7 @@ jobs:
           fail_on_error: true
 
       - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2.0.2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
@@ -44,5 +44,5 @@ jobs:
       - name: Commit generated statistics
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update GitHub statistics"
+          message: "chore: update GitHub statistics"
           add: "profile/"
