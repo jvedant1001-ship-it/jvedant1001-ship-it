@@ -23,51 +23,33 @@ I'm currently building my foundations through hands-on projects and consistent D
 
 # 🛠️ Tech Stack
 
+<img src="https://media1.tenor.com/m/edfhJ4r7MTkAAAAd/never-gonna-give-you-up.gif" width="280" align="right" alt="Never Gonna Give You Up GIF" />
+
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,bash" alt="Python, C++, Bash" /> </p>
 
 ### 🧰 Tools & Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code,  Docker" /> </p>
 
-### 🗄️ Database
+### 🗄️ Database  & ORM
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,sqlalchemy" alt="MySQL, SQLite, PostgreSQL, SQLAlchemy" /> </p>
 
+### ⚡ Backend Development & APIs
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> </p>
 
 ### 🤖 AI / Machine Learning & Data Science
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,huggingface" alt="Python, Scikit-learn, TensorFlow, PyTorch, Hugging Face" /> </p>
 
-| 🧠 Skills | 📚 Topics |
-|---|---|
-| 🧹 Data Cleaning & Preprocessing | Handling missing values, data transformation |
-| 🔍 Exploratory Data Analysis | Understanding patterns, trends & distributions |
-| 🔄 Data Manipulation | Filtering, grouping, merging & transforming data |
-| 📊 Data Visualization | Charts, plots & visual data analysis |
-| ⚙️ Feature Engineering | Feature selection & feature transformation |
-| 🤖 Machine Learning | Building & applying ML models |
-| 📈 Model Training & Evaluation | Training, testing & performance evaluation |
-| 🧠 Learning Types | Supervised & Unsupervised Learning |
+### ☁️ Cloud Computing
 
-#### 📚 Libraries
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /> </p>
 
-| Library | Purpose |
-|---|---|
-| **NumPy** | Numerical computing & array operations |
-| **Pandas** | Data manipulation & analysis |
-| **Matplotlib** | Data visualization |
-| **Seaborn** | Statistical data visualization |
-
+<br clear="right" />
 
 ---
 
