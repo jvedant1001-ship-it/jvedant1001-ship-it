@@ -107,7 +107,6 @@ Building on a solid foundation in **DSA and problem solving**, while progressing
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="profile/stats.svg" height="180" alt="GitHub Statistics" />
   <img src="profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
