@@ -171,14 +171,6 @@ Building on a solid foundation in **DSA and problem solving**, while progressing
 ---
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jvedant1001-ship-it&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jvedant1001-ship-it?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/jvedant1001-ship-it?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
-</p>
-
-
----
 
 🤝 Connect With Me
 <p align="center"> <a href="mailto:for.work.1871@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/jvedant1001-ship-it"> <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.chess.com/member/chess_is_hard_001"> <img src="https://cdn.simpleicons.org/chessdotcom" alt="Chess.com" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/vedant_joshi_01/"> <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.hackerrank.com/profile/For_work_1871"> <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://jvedant1001-ship-it.github.io/vedant-portfolio/"> <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" width="40" height="40"> </a> </p>
