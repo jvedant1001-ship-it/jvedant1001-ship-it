@@ -4,7 +4,7 @@
   <img src="profile/typing.gif" alt="Typing introduction" />
 </p>
 
-I'm an aspiring AI/ML Engineer focused on Python, data analysis, machine learning, and problem solving.
+I'm an AI/ML Engineer focused on Python, data analysis, machine learning, and problem solving.
 I'm currently building my foundations through hands-on projects and consistent DSA practice, with the goal of developing practical AI/ML solutions.
 
 ---
