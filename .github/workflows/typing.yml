@@ -28,9 +28,8 @@ jobs:
           import time
 
           phrases = [
-              "Aspiring AI/ML Engineer",
+              "AI/ML Engineer",
               "Python Developer",
-              "Machine Learning Enthusiast",
               "Always Learning. Always Building."
           ]
 
