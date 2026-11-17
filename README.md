@@ -165,19 +165,16 @@ Exploring cloud computing, monitoring and automation.
 
 <table width="100%">
 <tr>
-
 <td width="65%" valign="top">
-
 
 | 🚀 Focus | 🎯 Goal |
 |---|---|
-| ⚙️ **Backend Development** | Become a skilled Backend Developer by building scalable and efficient applications |
-| 🗄️ **Databases & APIs** | Master database management, REST APIs, and backend architecture |
-| 🛠️ **Projects** | Build practical backend projects using Python, FastAPI, and SQL |
-| 🤖 **AI/ML** | Explore Machine Learning and AI while strengthening my foundations |
-| 🌍 **Open Source** | Contribute to meaningful projects and learn from the developer community |
+| ⚙️ **Backend Development** | Build scalable and efficient backend applications |
+| 🗄️ **Databases & APIs** | Strengthen database management and API development skills |
+| 🤖 **AI/ML** | Explore Machine Learning and AI applications |
+| 🌍 **Open Source** | Contribute to meaningful projects and learn from the community |
 | 💼 **Career** | Gain industry experience and grow as a Software Engineer |
-| 🧩 **DSA** | Strengthen problem-solving and algorithmic thinking through consistent practice |
+| 🧩 **DSA** | Improve problem-solving through consistent practice |
 | 📈 **Growth** | Keep learning, building, and improving every day |
 
 </td>
@@ -193,7 +190,6 @@ Exploring cloud computing, monitoring and automation.
 *Failure is part of the process.*
 
 </td>
-
 </tr>
 </table>
 
