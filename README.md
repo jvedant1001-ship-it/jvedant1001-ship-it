@@ -102,15 +102,62 @@ Exploring cloud computing, monitoring and automation.
 
 ---
 
+
 # 🚀 Featured Projects
 
-| Project | Description | Focus |
-|---|---|---|
-| 🐍 **Python Projects** | A collection of **14 independently built Python projects** created to strengthen programming fundamentals, logical thinking, and problem-solving through hands-on practice. | Python · Problem Solving · Programming Fundamentals |
-| 🧪 **PythonLabs** | An ongoing collection of practical Python projects, including an **Expense Tracker, Library Management System, and database-related applications** as I progress toward more structured Python development. | Python · OOP · File Handling · SQL |
-| 📊 **Data Analysis Project** | Hands-on work applying **NumPy and Pandas** to real datasets, focusing on data cleaning, manipulation, exploratory analysis, visualization, and extracting meaningful insights. | NumPy · Pandas · Data Analysis |
+<table width="100%">
+<tr>
+<td width="40%" align="center" valign="middle">
 
-> **Building consistently, one project at a time.**
+<img src="https://images.template.net/536189/Will-Smith-Meme-Template-edit-online.png"
+     width="100%"
+     alt="Will Smith Meme" />
+
+</td>
+
+<td width="60%" valign="middle">
+
+### 🐍 Python Projects
+14 independently built Python projects focused on programming fundamentals.
+
+🔗 [Explore Repository](YOUR_REPO_LINK_1)
+
+---
+
+### 🧪 PythonLabs
+Practical Python applications including Expense Tracker and Library Management System.
+
+🔗 [Explore Repository](YOUR_REPO_LINK_2)
+
+---
+
+### 📊 Data Analysis
+Hands-on data cleaning, manipulation and exploratory analysis.
+
+🔗 [Explore Repository](YOUR_REPO_LINK_3)
+
+---
+
+### ⚙️ Backend Development
+Backend applications, APIs and database-driven projects.
+
+🔗 [Explore Repository](YOUR_REPO_LINK_4)
+
+---
+
+### 🤖 Machine Learning
+Experiments and practical projects exploring machine learning concepts.
+
+🔗 [Explore Repository](YOUR_REPO_LINK_5)
+
+</td>
+</tr>
+</table>
+
+
+<p align="center">
+  <b> 🏎️ Driven by curiosity, 💻 powered by code, ☄️ fueled by consistency.</b>
+</p>
 
 ---
 
@@ -204,3 +251,6 @@ Exploring cloud computing, monitoring and automation.
 <p align="center"> <a href="mailto:for.work.1871@gmail.com"> <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/jvedant1001-ship-it"> <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.chess.com/member/chess_is_hard_001"> <img src="https://cdn.simpleicons.org/chessdotcom" alt="Chess.com" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/vedant_joshi_01/"> <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.hackerrank.com/profile/For_work_1871"> <img src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" width="40" height="40"> </a> &nbsp;&nbsp;&nbsp; </p>
 
 ---
+
+
+
