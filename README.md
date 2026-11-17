@@ -9,47 +9,96 @@ I'm currently building my foundations through hands-on projects and consistent D
 
 ---
 
+
+
 ## 🧠 About Me
+
+<img src="https://media1.tenor.com/m/edfhJ4r7MTkAAAAd/never-gonna-give-you-up.gif"
+     width="200"
+     align="right"
+     alt="Never Gonna Give You Up GIF" />
 
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 🐍 Currently focusing on **Python Basics** and **Data Structures & Algorithms**
-- 📊 Learning **Data Science,MlOps**
+- 📊 Learning **Data Science and MLOps**
 - 🌍 Interested in contributing to **Open Source**
 - 🚀 Working towards building **real-world AI/ML projects**
-- 🧩 Hobbies **Swimming,Chess,Reading**
-- 💼 Goal: **🎯 Seeking opportunities to learn and contribute as an AI/ML intern**
+- 🧩 Hobbies: **Swimming, Chess, and Reading**
+- 💼 Goal: **Seeking opportunities to learn and contribute as an AI/ML intern**
+
+<br clear="right" />
 
 ---
 
+
 # 🛠️ Tech Stack
 
-<img src="https://media1.tenor.com/m/edfhJ4r7MTkAAAAd/never-gonna-give-you-up.gif" width="280" align="right" alt="Never Gonna Give You Up GIF" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ### 👨‍💻 Programming Languages
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,bash" alt="Python, C++, Bash" /> </p>
+<img src="https://skillicons.dev/icons?i=python,cpp,bash" />
 
 ### 🧰 Tools & Development
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, VS Code,  Docker" /> </p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 
-### 🗄️ Database  & ORM
+### 🗄️ Database & ORM
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,sqlalchemy" alt="MySQL, SQLite, PostgreSQL, SQLAlchemy" /> </p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,sqlalchemy" />
 
 ### ⚡ Backend Development & APIs
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" /> </p>
+<img src="https://skillicons.dev/icons?i=fastapi,postman,graphql" />
 
 ### 🤖 AI / Machine Learning & Data Science
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,huggingface" alt="Python, Scikit-learn, TensorFlow, PyTorch, Hugging Face" /> </p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,huggingface" />
 
-### ☁️ Cloud Computing
+### ☁️ Cloud, Monitoring & Observability
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /> </p>
+<img src="https://skillicons.dev/icons?i=aws,docker,prometheus,githubactions" />
 
-<br clear="right" />
+</td>
+<td width="35%" valign="top" align="center">
+
+## 🎯 Primary Focus
+
+**Backend Development**
+
+Building APIs, database-driven applications and backend services.
+
+---
+
+##### 🗄️ Database Systems
+
+Working with relational databases, SQL and ORM.
+
+---
+
+##### ⚙️ Development Workflow
+
+Version control, containerization and development tools.
+
+---
+
+##### 🤖 Exploring AI/ML
+
+Learning machine learning and experimenting with data-driven solutions.
+
+<br/>
+
+---
+
+##### ☁️ Infrastructure
+
+Exploring cloud computing, monitoring and automation.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -65,28 +114,13 @@ I'm currently building my foundations through hands-on projects and consistent D
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-I'm continuously strengthening my foundations in **Machine Learning, Data Analysis, Deep Learning, and DSA** while applying what I learn through practical projects.
-
-| 🚀 Area | 📖 Currently Learning |
-|---|---|
-| 🤖 **Machine Learning** | Supervised Learning · Unsupervised Learning · Data Preprocessing · Feature Engineering · Model Evaluation · Regression · Classification · Clustering |
-| 📊 **Data Analysis** | NumPy · Pandas · Matplotlib · Seaborn · EDA · Data Cleaning · Data Visualization |
-| 🧩 **Data Structures & Algorithms** | Arrays · Strings · Linked Lists · Stacks & Queues · Trees · Searching · Sorting · Algorithms · Problem Solving |
-| 🧠 **Deep Learning** | Neural Networks · Deep Learning Fundamentals · Model Training · Model Evaluation |
-
-### 🧩 Data Structures & Algorithms
-
-Building on a solid foundation in **DSA and problem solving**, while progressing toward more advanced concepts through consistent practice.
-
-| 🎯 Focus Area | 📚 Current Progress |
-|---|---|
-| 🧱 **Core Data Structures** | Arrays · Strings · Linked Lists · Stacks & Queues · Trees |
-| ⚙️ **Algorithms** | Searching · Sorting · Recursion · Basic Algorithmic Techniques |
-| 🧠 **Problem Solving** | Pattern Recognition · Logical Thinking · Time & Space Complexity |
-| 💻 **Practice** | LeetCode · Algorithmic Problem Solving · Consistent Practice |
-| 🚀 **Next Step** | Progressing toward more challenging DSA problems and strengthening problem-solving skills |
+- ⚙️ Backend Development: Strengthening my skills in Python, FastAPI, REST APIs, databases, and backend architecture.
+- 🤖 Machine Learning: Exploring ML algorithms, model development, and practical AI applications.
+- 📊 Data Analysis: Working with NumPy, Pandas, data preprocessing, and exploratory data analysis.
+- 🧩 Data Structures & Algorithms: Improving problem-solving skills, algorithmic thinking, and computational efficiency.
+- 🚀 Hands-on Projects: Applying concepts through practical projects while continuously learning and improving.
 
 > **Build the fundamentals → Solve consistently → Tackle harder problems → Improve**
 
@@ -104,11 +138,25 @@ Building on a solid foundation in **DSA and problem solving**, while progressing
 
 ---
 
-# 📊 GitHub Statistics
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jvedant1001-ship-it&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jvedant1001-ship-it&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jvedant1001-ship-it&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
 
 
 ---
@@ -120,13 +168,16 @@ Building on a solid foundation in **DSA and problem solving**, while progressing
 
 <td width="65%" valign="top">
 
+
 | 🚀 Focus | 🎯 Goal |
 |---|---|
-| 🧠 **AI/ML** | Become a strong and capable AI/ML Engineer |
-| 🛠️ **Projects** | Build meaningful, real-world AI/ML projects |
-| 🌍 **Open Source** | Make useful contributions and learn from the community |
-| 💼 **Career** | Gain industry experience and grow as an engineer |
-| 🧩 **DSA** | Strengthen problem-solving through consistent practice |
+| ⚙️ **Backend Development** | Become a skilled Backend Developer by building scalable and efficient applications |
+| 🗄️ **Databases & APIs** | Master database management, REST APIs, and backend architecture |
+| 🛠️ **Projects** | Build practical backend projects using Python, FastAPI, and SQL |
+| 🤖 **AI/ML** | Explore Machine Learning and AI while strengthening my foundations |
+| 🌍 **Open Source** | Contribute to meaningful projects and learn from the developer community |
+| 💼 **Career** | Gain industry experience and grow as a Software Engineer |
+| 🧩 **DSA** | Strengthen problem-solving and algorithmic thinking through consistent practice |
 | 📈 **Growth** | Keep learning, building, and improving every day |
 
 </td>
