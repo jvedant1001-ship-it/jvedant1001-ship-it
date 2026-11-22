@@ -14,7 +14,7 @@ I'm currently building my foundations through hands-on projects and consistent D
 ## 🧠 About Me
 
 <img src="https://media1.tenor.com/m/edfhJ4r7MTkAAAAd/never-gonna-give-you-up.gif"
-     width="200"
+     width="208"
      align="right"
      alt="Never Gonna Give You Up GIF" />
 
@@ -209,9 +209,15 @@ Strengthening problem-solving skills through Data Structures and Algorithms, one
 
 
 
-## 📚 Currently Learning
+<h2>
+  📚 Currently Learning
+  <img src="https://media4.giphy.com/media/DfSXiR60W9MVq/giphy.gif"
+       width="48"
+       align="center"
+       alt="Thinking Math Meme" />
+</h2>
 
-<img align="right" width="118"
+<img align="right" width="288"
      src="https://media1.tenor.com/m/TGH9iMkYiDgAAAAd/galaxy-brain.gif"
      alt="Galaxy Brain Meme" />
 
