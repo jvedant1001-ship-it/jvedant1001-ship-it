@@ -103,6 +103,7 @@ Exploring cloud computing, monitoring and automation.
 ---
 
 
+
 # 🚀 Featured Projects
 
 <table width="100%">
@@ -117,59 +118,109 @@ Exploring cloud computing, monitoring and automation.
 
 <td width="60%" valign="middle">
 
+<img align="right" width="70"
+     src="https://media1.tenor.com/m/jvPLOMzQuKwAAAAd/tiktok-tiktok-meme.gif"
+     alt="Peak meme" />
+
 ### 🐍 Python Projects
 14 independently built Python projects focused on programming fundamentals.
 
-🔗 [Explore Repository](YOUR_REPO_LINK_1)
+🔗 [Explore Repository](https://github.com/jvedant1001-ship-it/python__project)
+
+<br clear="right" />
 
 ---
+
+<img align="right" width="70"
+     src="https://media1.tenor.com/m/UM_XpaocUpsAAAAd/looking-at-paper-guy-looking-at-paper.gif"
+     alt="Jimmy Butler meme" />
 
 ### 🧪 PythonLabs
 Practical Python applications including Expense Tracker and Library Management System.
 
-🔗 [Explore Repository](YOUR_REPO_LINK_2)
+🔗 [Explore Repository](https://github.com/jvedant1001-ship-it/Python_Labs)
+
+<br clear="right" />
 
 ---
 
-### 📊 Data Analysis
-Hands-on data cleaning, manipulation and exploratory analysis.
+<img align="right" width="70"
+     src="https://media.tenor.com/H_y8G9XS_eIAAAAj/benjammins-but-in-yellow.gif"
+     alt="Peak chart meme" />
 
-🔗 [Explore Repository](YOUR_REPO_LINK_3)
+### ☁️ DevOps & Cloud Engineering
+Exploring DevOps practices, automation, infrastructure and deployment workflows through hands-on experiments.
+
+🔗 [Explore Repository](https://github.com/jvedant1001-ship-it/DevOps-Lab)
+
+<br clear="right" />
 
 ---
+
+<img align="right" width="70"
+     src="https://media1.tenor.com/m/_XliE-FMVRUAAAAd/patrick-star-peak-meme-patrick-star-peak.gif"
+     alt="Patrick Star Peak Meme" />
 
 ### ⚙️ Backend Development
-Backend applications, APIs and database-driven projects.
+Python • APIs • Database • SQL
 
-🔗 [Explore Repository](YOUR_REPO_LINK_4)
+🔗 [Explore Repository](https://github.com/jvedant1001-ship-it/fastapi-learning)
+
+<br clear="right" />
 
 ---
+
+<img align="right" width="70"
+     src="https://media1.tenor.com/m/NdpZ3DinAZcAAAAd/peak.gif"
+     alt="Peak meme" />
 
 ### 🤖 Machine Learning
 Experiments and practical projects exploring machine learning concepts.
 
-🔗 [Explore Repository](YOUR_REPO_LINK_5)
+🔗 [Explore Repository](https://github.com/jvedant1001-ship-it/Machine-Learning-Lab)
+
+<br clear="right" />
+
+---
+
+<img align="right" width="70"
+     src="https://media1.tenor.com/m/m5d96XUUBPIAAAAd/gohan-its-so-peak.gif"
+     alt="Gohan It's So Peak Meme" />
+
+### 🧩 LeetCode | DSA Journey
+Strengthening problem-solving skills through Data Structures and Algorithms, one problem at a time.
+
+🔗 [Explore Repository](https://github.com/jvedant1001-ship-it/LeetCode)
+
+<br clear="right" />
 
 </td>
 </tr>
 </table>
 
-
 <p align="center">
-  <b> 🏎️ Driven by curiosity, 💻 powered by code, ☄️ fueled by consistency.</b>
+  <b>🏎️ Driven by curiosity, 💻 powered by code, ☄️ fueled by consistency.</b>
 </p>
+
 
 ---
 
+
 ## 📚 Currently Learning
 
-- ⚙️ Backend Development: Strengthening my skills in Python, FastAPI, REST APIs, databases, and backend architecture.
-- 🤖 Machine Learning: Exploring ML algorithms, model development, and practical AI applications.
-- 📊 Data Analysis: Working with NumPy, Pandas, data preprocessing, and exploratory data analysis.
-- 🧩 Data Structures & Algorithms: Improving problem-solving skills, algorithmic thinking, and computational efficiency.
-- 🚀 Hands-on Projects: Applying concepts through practical projects while continuously learning and improving.
+<img align="right" width="110"
+     src="https://media.tenor.com/REPLACE_WITH_GALAXY_BRAIN.gif"
+     alt="Galaxy Brain Meme" />
 
-> **Build the fundamentals → Solve consistently → Tackle harder problems → Improve**
+- ⚙️ **Backend Development:** Strengthening my skills in Python, FastAPI, REST APIs, databases, and backend architecture.
+- 🤖 **Machine Learning:** Exploring ML algorithms, model development, and practical AI applications.
+- ☁️ **DevOps & Cloud:** Exploring Docker, Linux, CI/CD pipelines, cloud fundamentals, and automation.
+- 🧩 **Data Structures & Algorithms:** Improving problem-solving skills, algorithmic thinking, and computational efficiency.
+- 🚀 **Hands-on Projects:** Applying concepts through practical projects while continuously learning and improving.
+
+<br clear="right" />
+
+> **🏗️ Build the fundamentals → 💻 Solve consistently → 🧠 Tackle harder problems → 📈 Improve
 
 ---
 
