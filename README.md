@@ -118,7 +118,7 @@ Exploring cloud computing, monitoring and automation.
 
 <td width="60%" valign="middle">
 
-<img align="right" width="70"
+<img align="right" width="88"
      src="https://media1.tenor.com/m/jvPLOMzQuKwAAAAd/tiktok-tiktok-meme.gif"
      alt="Peak meme" />
 
@@ -131,7 +131,7 @@ Exploring cloud computing, monitoring and automation.
 
 ---
 
-<img align="right" width="70"
+<img align="right" width="88"
      src="https://media1.tenor.com/m/UM_XpaocUpsAAAAd/looking-at-paper-guy-looking-at-paper.gif"
      alt="Jimmy Butler meme" />
 
@@ -144,7 +144,7 @@ Practical Python applications including Expense Tracker and Library Management S
 
 ---
 
-<img align="right" width="70"
+<img align="right" width="88"
      src="https://media.tenor.com/H_y8G9XS_eIAAAAj/benjammins-but-in-yellow.gif"
      alt="Peak chart meme" />
 
@@ -157,12 +157,12 @@ Exploring DevOps practices, automation, infrastructure and deployment workflows 
 
 ---
 
-<img align="right" width="70"
+<img align="right" width="88"
      src="https://media1.tenor.com/m/_XliE-FMVRUAAAAd/patrick-star-peak-meme-patrick-star-peak.gif"
      alt="Patrick Star Peak Meme" />
 
 ### ⚙️ Backend Development
-Python • APIs • Database • SQL
+Working with Python, FastAPI, REST APIs, databases, SQL, and backend architecture.
 
 🔗 [Explore Repository](https://github.com/jvedant1001-ship-it/fastapi-learning)
 
@@ -170,9 +170,11 @@ Python • APIs • Database • SQL
 
 ---
 
-<img align="right" width="70"
-     src="https://media1.tenor.com/m/NdpZ3DinAZcAAAAd/peak.gif"
-     alt="Peak meme" />
+
+<img align="right" width="88"
+     src="https://media1.tenor.com/m/P3m9nm8DeX0AAAAd/gem-finding-gem.gif"
+     alt="Gem Finding Meme" />
+
 
 ### 🤖 Machine Learning
 Experiments and practical projects exploring machine learning concepts.
@@ -183,7 +185,7 @@ Experiments and practical projects exploring machine learning concepts.
 
 ---
 
-<img align="right" width="70"
+<img align="right" width="88"
      src="https://media1.tenor.com/m/m5d96XUUBPIAAAAd/gohan-its-so-peak.gif"
      alt="Gohan It's So Peak Meme" />
 
@@ -206,10 +208,11 @@ Strengthening problem-solving skills through Data Structures and Algorithms, one
 ---
 
 
+
 ## 📚 Currently Learning
 
-<img align="right" width="110"
-     src="https://media.tenor.com/REPLACE_WITH_GALAXY_BRAIN.gif"
+<img align="right" width="118"
+     src="https://media1.tenor.com/m/TGH9iMkYiDgAAAAd/galaxy-brain.gif"
      alt="Galaxy Brain Meme" />
 
 - ⚙️ **Backend Development:** Strengthening my skills in Python, FastAPI, REST APIs, databases, and backend architecture.
@@ -220,7 +223,7 @@ Strengthening problem-solving skills through Data Structures and Algorithms, one
 
 <br clear="right" />
 
-> **🏗️ Build the fundamentals → 💻 Solve consistently → 🧠 Tackle harder problems → 📈 Improve
+> 🏗️ Build the fundamentals → 💻 Solve consistently → 🧠 Tackle harder problems → 📈 Improve
 
 ---
 
